@@ -8,8 +8,8 @@
   },
   "author": "Carlos Álvarez",
   "license": "ISC",
-  "dependencies":{
-    "socket.io":"*",
-    "express":"*"
+  "dependencies": {
+    "socket.io": "^1.7.3",
+    "express": "^4.15.2"
   }
 }
